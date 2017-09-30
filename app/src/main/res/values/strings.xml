@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rain Check</string>
+    <string name="title_activity_place_selector">Map</string>
+</resources>
